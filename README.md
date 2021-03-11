@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**iamsnj/iamsnj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CSE UG student at IIT Kanpur. My interest lies in **Machine Learning**, **Software Development**. I love learning new things/skills. Whenever possible, I used to automate things with **Python**. 
 
-Here are some ideas to get you started:
+**Contact:**
+<a href='mailto:skdakshana18@gmail.com'>:envelope: Mail me</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<a href="https://github.com/iamsnj/iamsnj/">
+  <img align="center" height="35%" width="36%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsnj&show_icons=true&theme=light&line_height=30" />
+</a>
+<a href="https://github.com/iamsnj/iamsnj/">
+ <img align="center"  height="75%" width="60%" src="https://github-readme-stats.vercel.app/api?username=iamsnj&count_private=true&show_icons=true&theme=light&line_height=30" alt="Sanjay Kumar's GitHub Stats"/>
+  </a>
