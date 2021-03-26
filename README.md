@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a CSE UG student at IIT Kanpur. My interest lies in **Machine Learning**, **Software Development**. I love learning new things/skills. Whenever possible, I used to automate things with **Python**. 
+I am a CSE UG student at IIT Kanpur. My interest lies in **Machine Learning**, **Software Development**. I love learning new things/skills. Whenever possible, I try to automate things with **Python**. 
 
 **Contact:**
 <a href='mailto:skdakshana18@gmail.com'>:envelope: Mail me</a>
