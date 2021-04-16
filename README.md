@@ -30,4 +30,7 @@ I am a CSE UG student at IIT Kanpur. My interest lies in **Machine Learning**, *
 </a>
 </p>
 
-[![HitCount](http://hits.dwyl.com/iamsnj/iamsnj.svg)](http://hits.dwyl.com/iamsnj/iamsnj)
+<!-- [![HitCount](http://hits.dwyl.com/iamsnj/iamsnj.svg)](http://hits.dwyl.com/iamsnj/iamsnj) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsnj%2Fhit-counter&count_bg=%2353B10B&title_bg=%236E3737&icon=&icon_color=%231E1D80&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
